@@ -5,8 +5,6 @@ Based off of some other tools I've come across.
 
 Previously I'd have to do a couple quick google searches to check common cryptocurrencies, so I figured I'd make a simple cli tool with the stats I'm mostly interested in
 
-# Usage
-
 ## Install
 
 ```
