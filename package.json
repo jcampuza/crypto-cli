@@ -1,6 +1,9 @@
 {
   "name": "crypto-cli",
   "version": "1.0.0",
+  "engines": {
+    "node": ">= 8.0"
+  },
   "description": "CLI tool to view current status of the top ranked cryptocurrencies",
   "main": "index.js",
   "author": "Joseph Campuzano",
